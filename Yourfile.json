@@ -1,9 +1,9 @@
 [
     {
-        "device_id": "1759a8daa3a92dc",
-        "key": "1759a8daa3a92dc",
+        "device_id": "id do celular",
+        "key": "senha",
         "expirydate": "10-12-2035",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "device456",
